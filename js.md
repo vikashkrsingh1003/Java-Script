@@ -18,4 +18,34 @@ intro:
   2. let  -->( Do not redeclear but do reasign )
   3. const -->( Do not  redeclear or reasign ) constant 
 
+  # operator --> are special symbols.
+
+  3 types --> 
+  1. unary 
+          Single -> ++ , -- 
+          --> ++v , v++ 
+          --> --v , v--
+
+ 2. binary 
+   --> arthematic 
+   + - * / % 
+
+   / --> Q
+   % --> R
+
+   --> Relation operator 
+
+   == , != , > , < , >= ,<=
+
+   --> Assignment 
+   = , += , -= , /= , *= 
+
+   --> Logical 
+
+     &&  || ! 
+
+3. ternary 
+  ? : 
+  
+
 
