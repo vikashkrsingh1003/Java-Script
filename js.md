@@ -46,6 +46,10 @@ intro:
 
 3. ternary 
   ? : 
+
+  # conditional statement 
+  if , if else , ladder if else  , nested , switch
+  
   
 
 
