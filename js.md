@@ -50,6 +50,17 @@ intro:
   # conditional statement 
   if , if else , ladder if else  , nested , switch
   
+
+  #loop
+  do while , while , for loop 
+
+  Q1 diff argument and parameter 
+
+  #function :-> function is a block of code ..!
+1. pre defined function 
+2. user defined function 
+
+
   
 
 

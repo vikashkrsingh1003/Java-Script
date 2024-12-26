@@ -69,21 +69,37 @@
 
 //Nested if else 
 
-let age = parseInt(prompt("enter the age"))
-if( age >= 18){
-        let n = parseInt(prompt(" p 1 for indian n"))
-        if(n==1){
-            alert("eligible")
+// let age = parseInt(prompt("enter the age"))
+// if( age >= 18){
+//         let n = parseInt(prompt(" p 1 for indian n"))
+//         if(n==1){
+//             alert("eligible")
            
-        }
-        else{
-            alert("not for eligible ")
-        }
-       }
-       else{
-        alert(" u r child ")
-       }
+//         }
+//         else{
+//             alert("not for eligible ")
+//         }
+//        }
+//        else{
+//         alert(" u r child ")
+//        }
 
+
+let num1 = parseInt(prompt("Enter num1 :"))
+let num2 = parseInt(prompt("Enter num1 :"))
+
+  switch(num1,num2){
+
+    case +:
+    alert("addition " + (num1+num2))
+    break;
+
+    case -:
+    alert(" Substraction " + (num1 - num2))
+    break;
+
+
+  }
 
 
 
