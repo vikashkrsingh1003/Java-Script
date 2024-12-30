@@ -59,6 +59,12 @@ intro:
   #function :-> function is a block of code ..!
 1. pre defined function 
 2. user defined function 
+ 
+ ---> without argument and no return values 
+---> with argument and no return values 
+---> without argument and  return values 
+---> with argument and no return values 
+
 
 
   
