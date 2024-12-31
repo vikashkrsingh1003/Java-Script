@@ -109,7 +109,7 @@
 //     alert("odd")
 //    }
 
-//Q 
+//Ques 
 
 function code(num){
         return num*num*num
