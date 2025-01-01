@@ -111,15 +111,27 @@
 
 //Ques 
 
-function code(num){
-        return num*num*num
-     }
-    let b = parseInt(prompt("num"))
-       let c = code(num)
+// function code(num){
+//         return num*num*num
+//      }
+//     let b = parseInt(prompt("num"))
+//        let c = code(num)
       
-    for(let i=1; i<=c;i++){
-           for(let j=1; j<=i;j++){
-            document.write("c")
-           }
+//     for(let i=1; i<=c;i++){
+//            for(let j=1; j<=i;j++){
+//             document.write("c")
+//            }
 
-    }
+//     }
+
+    function code(a){
+          return a*a*a
+       }
+      
+         let b = code(3)
+         if(b%2==0){
+          alert("even ")
+         }
+         else{
+          alert("odd")
+         }
