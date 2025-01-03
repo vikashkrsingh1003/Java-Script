@@ -12,3 +12,13 @@ let head2 = document.getElementsByClassName("content2")
 console.log(head2); // it does not change any text
 head2[1].innerHTML = "<i> Vikash Singh  </i>"
 head2[2].textContent = " hey Balraj gupta "
+
+// change the value of an attribute
+
+// document.getElementById('picture').src = "kerala.jpg"
+
+let photo = document.getElementById("picture")
+console.log(photo);
+photo.src = "kerala.jpg"
+
+document.write(Date())
