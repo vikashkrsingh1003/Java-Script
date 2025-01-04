@@ -22,3 +22,8 @@ console.log(photo);
 photo.src = "kerala.jpg"
 
 document.write(Date())
+
+
+document.getElementById("head").style.color= "red";
+document.getElementById("head").style.fontSize = "50px";
+document.getElementById("head").style.fontFamily = "Arial";
