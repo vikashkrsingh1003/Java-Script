@@ -23,7 +23,7 @@ function validate() {
 
         let erage = document.getElementById('errorage')
         erage.innerHTML = "Age should be a number "
-        // document.getElementById('age').focus()
+        //document.getElementById('age').focus()
 
         let ag = document.getElementById('age')
         ag.style.border = "2px solid red"

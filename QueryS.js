@@ -1,4 +1,4 @@
-function color(){
+function color() {
     let cont = document.getElementsByClassName('container')
     console.log(cont);
     cont[0].classList.toggle('colorr')
@@ -16,6 +16,9 @@ b.style.color = "blue"
 // c[1].style.color = "blue"
 
 let btn = document.querySelector('#btn')
-btn.addEventListener('click' , function(){
+btn.addEventListener('click', function () {
     alert("Add event fire")
 })
+
+let head2 = document.querySelector('h2')
+head2.style.color = "red"

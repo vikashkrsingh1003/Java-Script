@@ -70,8 +70,8 @@ it used for some change can be done html and css with respect to js
 
 -> har element ko node bolenge like ( h1 , p and etc) ->
 
-mohit
-= mohit is textnode
+vikash 
+= vikash is textnode
 3 types se target kr skate element node ko in js mai
 1.id 2.classname 3.tagname
 
@@ -112,6 +112,9 @@ or action perform by the user
 
 javascript mai kohi class ko leke apply krna hai css to use krenghe
 elementidname.classList.add('classname')
+
+
+  #Query selector used in select the html tags ...!
 
 
 
