@@ -22,13 +22,42 @@
 
 //WAp to print odd number btween 25 to 1 in array?
  
-let odd = []
+// let odd = []
 
-  for(let i=25 ; i>0; i--){
-     if(i%2!=0){
+//   for(let i=25 ; i>0; i--){
+//      if(i%2!=0){
       
-      console.log(odd[d])
+//       console.log(odd[d])
   
-     }
-  }
+//      }
+//   }
+ 
+//WAP
+//   let arr =[] 
+//   let sum =0;
+//   for(let i=0;i<10;i++){
+   
+//    arr[i] = parseInt(prompt("Enter ten digit  "))
+//    sum = sum+ arr[i];
+//   }
+//  console.log(sum);
+
+
+//push or pop function 
+let vl = ['vikash ', 12,67, 'cybrom']
+
+vl.push("mohit","manish")
+console.log(vl);
+
+ vl.pop()
+ console.log(vl)
+
+ vl.unshift("Chashma","lagao")
+ console.log(vl);
+
+ vl.shift()
+ console.log(vl);
+
+ //slice function 
+  
  

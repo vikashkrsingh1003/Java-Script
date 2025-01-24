@@ -117,6 +117,11 @@ elementidname.classList.add('classname')
   #Query selector used in select the html tags ...!
 
 
+  #Array 
+  // arr.push() :- array last element addition 
+  //arr.pop() :- arr last elements are deleted 
+
+
 
   
 
