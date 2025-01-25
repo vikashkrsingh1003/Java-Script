@@ -72,4 +72,10 @@
   //adding in middle 
   vl1.splice(3,3,"indore")
   console.log(vl1);
+  vl1.splice(3,3 "indore")
+  console.log(vl1);
+
+  vl1.splice(3,3,"indore")
+  console.log(vl1);
+
 
