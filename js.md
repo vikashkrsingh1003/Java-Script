@@ -117,10 +117,17 @@ elementidname.classList.add('classname')
   #Query selector used in select the html tags ...!
 
 
-  #Array 
-  // arr.push() :- array last element addition 
-  //arr.pop() :- arr last elements are deleted 
+  Array
+Need - > to stored multiple value in one variable array -> collection of multiple value
 
+. ordered - > position of element
+
+for of loop -> it used for access the array element
+Array predefined function
+1.push()-> it used for the add the element in the last index 2.pop() -> it used for the delete the element in the last index 3.unshift -> it add the element in the first index 4.shift -> it remove the element in the first index 5.splice -> it used for the add the element in the middle index 6.slice -> it used for the get the element from the middle of the array
+
+Destructuring of array -> when we don't use the indexing value we access the element with the help of variable so we used destructring of array
+spread Operator(...) -> it used for the merging the array element
 
 
   
