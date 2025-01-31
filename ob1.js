@@ -50,6 +50,16 @@ let ob = {
     contact : 8789
 
 }
+//only key print.
+// for(let ky in ob){
+//     console.log(ky);
+// }
+
+//key print ...!
+
 for(let ky in ob){
-    console.log(ky);
-}
+        console.log(ob[ky]);
+    }
+
+
+
