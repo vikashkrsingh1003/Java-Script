@@ -47,13 +47,15 @@ let ob = {
 
     name: "vikash",
     age:20,
-    contact : 8789
+    contact : 8789,
+    add: "bhopal"
+
 
 }
 //only key print.
-// for(let ky in ob){
-//     console.log(ky);
-// }
+for(let ky in ob){
+    console.log(ky);
+}
 
 //key print ...!
 
