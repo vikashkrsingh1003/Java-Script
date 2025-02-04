@@ -7,7 +7,7 @@
 //     account_state: {
 //         account_balance : 150000,
 //         account_no: 56466,
-    
+
 //     },
 
 //     persona_detail: {
@@ -46,22 +46,44 @@
 let ob = {
 
     name: "vikash",
-    age:20,
-    contact : 8789,
+    age: 20,
+    contact: 8789,
     add: "bhopal"
 
 
 }
 //only key print.
-for(let ky in ob){
+for (let ky in ob) {
     console.log(ky);
 }
 
 //key print ...!
 
-for(let ky in ob){
-        console.log(ob[ky]);
-    }
+for (let ky in ob) {
+    console.log(ob[ky]);
+}
+
+let emp = [
+
+    { name: "vikash", age: 20, contact: 123, id: 101 },
+    { name: "mohit", age: 22, contact: 78377, id: 102 },
+    { name: "ballu", age: 24, contact: 623, id: 103 },
+
+]
+
+//console.log(emp);
+console.log(emp[1]);
+
+let newob = {
+
+    name:"Ak47",
+    age:24,
+    contact:234,
+    id:104
+}
+
+ emp.push(newob)
+ console.log(emp);
 
 
 
