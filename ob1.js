@@ -85,5 +85,17 @@ let newob = {
  emp.push(newob)
  console.log(emp);
 
+ emp.pop(newob)
+ console.log(emp)
+
+ emp.splice(1,0,newob)
+ console.log(emp)
+
+ emp.shift()
+ console.log(emp)
+
+ emp.unshift("brocode")
+ console.log(emp)
+
 
 
