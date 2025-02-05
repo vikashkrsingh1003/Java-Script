@@ -5,5 +5,4 @@
 
 
  let add = (a,b) => {return a+b}
-
- console.log(add(12,3)) 
+  console.log(add(12,3)) 
