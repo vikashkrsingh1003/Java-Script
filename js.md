@@ -129,6 +129,13 @@ Array predefined function
 Destructuring of array -> when we don't use the indexing value we access the element with the help of variable so we used destructring of array
 spread Operator(...) -> it used for the merging the array element
 
+//Callback function :==> function ke andar dusra function call karne ke liye use karte hai.. !
+
+//map :==> previous array ki data ko fetch karke new array me return kr de deta hai..!
+
+//map fuction accept an argument another function 
+
+//filter function ==> filter data in a spesific condition of array 
 
   
 
