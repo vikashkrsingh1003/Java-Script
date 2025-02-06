@@ -138,5 +138,5 @@ spread Operator(...) -> it used for the merging the array element
 //filter function ==> filter data in a spesific condition of array 
 
   
-#setinterval ==>  predefined data ==> 
+#setinterval ==>  predefined function ==> 1.function & 2.timer 
 
