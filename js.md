@@ -140,3 +140,18 @@ spread Operator(...) -> it used for the merging the array element
   
 #setinterval ==>  predefined function ==> 1.function & 2.timer 
 
+# localstorage have four main function ==> 1. setItem() --> data store in localStorage
+                                      ===> 2. getItem()  --> data retrive in localStorage 
+                                      ===> 3. removeItem() --> data remove in localStorage 
+                                      ===> 4. clear() . -> all data clear in localStorage 
+
+
+
+
+
+
+
+
+
+
+
