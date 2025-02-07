@@ -3,7 +3,7 @@
 
 localStorage.setItem("name" , "vikash")
 localStorage.setItem("age" , 22)
-localStorage.setItem("contact" ,"878984")
+
 
 //if you give same key name data are override. 
 
@@ -15,13 +15,21 @@ alert(age);
 let fname = "mr"
 localStorage.setItem("fname" , fname)
 
-function submit(){
+function fun(){
     let name = document.getElementById('name').value
     localStorage.setItem("name",name)
-    return false;
+    
 
-    // let add = document.getElementById('add').value
-    // localStorage.setItem("address","add")
+    let add = document.getElementById('add').value
+    localStorage.setItem("address",add)
+
+    let contact = document.getElementById('contact').value
+    localStorage.setItem("contact", contact)
+
+    let city = document.getElementById('city').value
+    localStorage.setItem("city", city)
+
+    return false;
 }
 
 
