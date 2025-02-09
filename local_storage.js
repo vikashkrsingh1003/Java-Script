@@ -79,3 +79,18 @@ function showdata() {
 
 
 // }
+
+//  function clearr() {
+
+//     localStorage.clear()
+//     location.reload()
+//  }
+
+
+
+
+// function fun(){
+//     let name = document.getElementById('name').value 
+
+
+// }
