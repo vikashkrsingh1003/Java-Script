@@ -15,10 +15,14 @@
 
  async function Demo(){
 
-    let apidata = await fetch("https://jsonplaceholder.typicode.com/posts")
+    let apidata = await fetch("https://jsonplaceholder.typicode.com/comments")
      let fdata = await apidata.json();
      
-     console.log(fdata);
+     let api = document.querySelector('#apidata')
+     let dt = fdata.map((e)=> {return e.name + e.id})
+
+     api.innerHTML = dt;
+     //console.log(fdata);
      
 
 }
