@@ -146,6 +146,8 @@ spread Operator(...) -> it used for the merging the array element
                                       ===> 4. clear() . -> all data clear in localStorage 
 
 
+API ===> Application programming interfce;
+
 
 
 
