@@ -148,7 +148,8 @@ spread Operator(...) -> it used for the merging the array element
 
 API ===> Application programming interfce;
 
-
+//what is event  bubbling ?
+//what is event deligation ? 
 
 
 
