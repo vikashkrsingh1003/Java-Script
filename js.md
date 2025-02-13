@@ -151,6 +151,8 @@ API ===> Application programming interfce;
 //what is event  bubbling ?
 //what is event deligation ? 
 
+npm :-> node package manager . 
+
 
 
 

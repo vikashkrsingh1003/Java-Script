@@ -1,0 +1,24 @@
+{
+    "student": [
+        {
+        "name" : "manish",
+        "age" : 20,
+        "contact": 12345,
+        "city" : "bhopal"
+        },
+
+        {
+            "name" : "vikash",
+            "age" : 22,
+            "contact": 89345,
+            "city" : "gwalior"
+            },
+
+            {
+                "name" : "satyam",
+                "age" : 12,
+                "contact": 5545,
+                "city" : "gwalior"
+                }
+    ]
+}
