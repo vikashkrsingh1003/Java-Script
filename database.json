@@ -1,24 +1,32 @@
 {
-    "student": [
-        {
-        "name" : "manish",
-        "age" : 20,
-        "contact": 12345,
-        "city" : "bhopal"
-        },
-
-        {
-            "name" : "vikash",
-            "age" : 22,
-            "contact": 89345,
-            "city" : "gwalior"
-            },
-
-            {
-                "name" : "satyam",
-                "age" : 12,
-                "contact": 5545,
-                "city" : "gwalior"
-                }
-    ]
+  "student": [
+    {
+      "name": "manish",
+      "age": 20,
+      "contact": 12345,
+      "city": "bhopal",
+      "id": "4bb2"
+    },
+    {
+      "name": "vikash",
+      "age": 22,
+      "contact": 89345,
+      "city": "gwalior",
+      "id": "623a"
+    },
+    {
+      "id": "e8d3",
+      "name": "Vikash Singh",
+      "age": "21",
+      "contact": "1234567890",
+      "city": "Mahua"
+    },
+    {
+      "id": "3cd5",
+      "name": "sau",
+      "age": "",
+      "contact": "",
+      "city": ""
+    }
+  ]
 }
