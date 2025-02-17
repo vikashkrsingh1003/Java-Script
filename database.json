@@ -8,10 +8,10 @@
       "id": "4bb2"
     },
     {
-      "name": "vikash",
-      "age": 22,
-      "contact": 89345,
-      "city": "gwalior",
+      "name": " vikash",
+      "age": " 22",
+      "contact": " 89345f",
+      "city": " gwalior",
       "id": "623a"
     },
     {
@@ -22,11 +22,11 @@
       "city": "Mahua"
     },
     {
-      "id": "3cd5",
-      "name": "neha",
-      "age": "20",
-      "contact": "5526",
-      "city": "gwl"
+      "name": " neha  singh",
+      "age": " 21",
+      "contact": " 5526",
+      "city": " gwl",
+      "id": "3cd5"
     }
   ]
 }
