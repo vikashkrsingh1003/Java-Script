@@ -13,6 +13,7 @@ async function fetdata() {
         <td> ${e.age}</td>
         <td> ${e.city}</td>
         <td><button onclick= "mydel( '${e.id}') "> Delete </button> </td>
+        <td><button onclick= "myedit( '${e.id}') "> EDIT </button> </td>
  
         </tr>
     `).join("")
@@ -51,4 +52,20 @@ function insertData() {
         body:JSON.stringify(frmdata)
     })
     .then(r=>alert ("data insert sucsses"))
+}
+
+async function myedit(id) {
+
+    let edata = await fetch(`http://localhost:3000/student/${id}`)
+    let fdata = await edata.json()
+
+    let frm = `
+    <input type="text" value=" ${fdata.name}" id=" name1"> <br><br>
+    <input type="text" value=" ${fdata.age}" id=" age1"> <br><br>
+    <input type="text" value=" ${fdata.contact}" id=" contact1"> <br><br>
+    <input type="text" value=" ${fdata.city}" id=" city1"> <br><br>
+
+    <input type="submit">
+    `
+   document.querySelector('#showedit').innerHTML =frm ;
 }
