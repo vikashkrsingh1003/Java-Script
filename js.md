@@ -153,6 +153,23 @@ API ===> Application programming interfce;
 
 npm :-> node package manager . 
 
+animation library :--->  vanta.js , AOS library 
+slider library :---->> swiper.js
+
+alert library --> sweetalert
+
+
+
+ project ::--> 
+   front page --> book now --> signup --> login(localstorage)
+
+   --> login --> form page (booking)
+   --> insert -> pop up booking success 
+   --> user -> booking data(cancel)
+
+   front page -> navbar -> admin login 
+     
+
 
 
 

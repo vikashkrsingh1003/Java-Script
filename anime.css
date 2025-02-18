@@ -1,0 +1,14 @@
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.ch1 , .ch2{
+  height: 200px;
+  width: 400px;
+    background-color: blue;
+    padding: 2px;
+    border: 3px solid red;
+}
