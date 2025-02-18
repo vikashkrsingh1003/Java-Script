@@ -157,6 +157,8 @@ animation library :--->  vanta.js , AOS library
 slider library :---->> swiper.js
 
 alert library --> sweetalert
+font checker --> Whatfont
+color combination --> cooler.com
 
 
 
@@ -168,6 +170,9 @@ alert library --> sweetalert
    --> user -> booking data(cancel)
 
    front page -> navbar -> admin login 
+   --> Table page -> data all user 
+   --> data delete / edit
+
      
 
 
