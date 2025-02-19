@@ -173,6 +173,31 @@ color combination --> cooler.com
    --> Table page -> data all user 
    --> data delete / edit
 
+
+interview Question 
+
+//diff b/w let var and const with scope ?
+//what if fat arrow function ?
+// what is hoisting ?
+// what is closuer ?
+// what is event bubbling and event deligaion? 
+//what is event propagation ? 
+// what is promise ? 
+// why we use async and await ? 
+// what is json ? 
+// what is callback and hire order function ? 
+// diff b/w synchronus and asynchronus ? 
+// Difference between “ == “ and “ === “ operators. ??
+
+ what many types using css ? 
+ what is responsive ?.
+ how to make are website reseponsive ?
+ diff b/w flex and grid ? 
+ what is selector ? 
+ what is mediaQuery ? 
+ what is boxmodel ? 
+
+
      
 
 
