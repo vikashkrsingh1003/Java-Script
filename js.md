@@ -44,7 +44,7 @@ intro:
 
      &&  || ! 
 
-3. ternary 
+3. ternary operator 
   ? : 
 
   # conditional statement 
