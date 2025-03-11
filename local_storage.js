@@ -35,7 +35,7 @@ function fun(){
 
     let city = document.getElementById('city').value
     localStorage.setItem("city", city)
- window.location.href = "next.html";
+   window.location.href = "next.html";
    
     return false;
 }

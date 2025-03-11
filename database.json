@@ -8,13 +8,6 @@
       "id": "4bb2"
     },
     {
-      "name": " vikash",
-      "age": " 22",
-      "contact": " 89345f",
-      "city": " gwalior",
-      "id": "623a"
-    },
-    {
       "id": "e8d3",
       "name": "Vikash Singh",
       "age": "21",
@@ -28,6 +21,5 @@
       "city": " gwl",
       "id": "3cd5"
     }
-   
   ]
 }
